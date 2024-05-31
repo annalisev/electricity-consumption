@@ -1,0 +1,1 @@
+psql electricity -f schema.sql
